@@ -1,0 +1,46 @@
+
+h2{
+    background-color: green;
+}
+p{
+    margin-left: 50px;
+    margin-right: 50px;  
+}
+input {
+    width:50%;
+    height:px
+}
+
+.monospace{
+    font-size: 30px;
+}
+
+.main-list{
+    background-color:azure;
+    opacity: 0.6;
+    font-size: 20px;
+    padding: 0px;
+}
+.monospace{
+    font-size: 20px;
+}
+.main-list{
+    background-color: azure;
+    opacity: 0,6;
+    font-size:20px;
+    padding: 20px;
+}
+.salade-part{
+    background-image: url('https://66.media.tumblr.com/a3af2c3b7ffdb94b02a83f3c56293e2b/tumblr_mk2f1isaHP1s8yxq9o1_400.gifv');
+    background-size: 300px 100px;
+    background-position:center;
+
+    height: 120px;
+    padding:0;
+    margin:0;
+}
+
+
+
+
+
